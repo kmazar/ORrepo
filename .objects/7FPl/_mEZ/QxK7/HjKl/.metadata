@@ -1,0 +1,16 @@
+﻿{
+  "Id": "HjKloMwMKEu85c2tYD6cGA",
+  "Reference": "4WAPbOeCq06ht0OdLbohTw/HjKloMwMKEu85c2tYD6cGA",
+  "ParentRef": "4WAPbOeCq06ht0OdLbohTw/QxK7vlIAJUGHM8NU-ZRS4w",
+  "Name": "Searchbox",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-09-11T23:42:49.4750477Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-11T23:43:08.2750069Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

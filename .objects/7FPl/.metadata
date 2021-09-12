@@ -1,0 +1,11 @@
+﻿{
+  "Id": "7FPli2-TnUOckrSf4VWZ9A",
+  "Reference": "4WAPbOeCq06ht0OdLbohTw/7FPli2-TnUOckrSf4VWZ9A",
+  "Name": "ChromeApp",
+  "Type": "App",
+  "Created": "2021-09-11T23:42:20.9720025Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-11T23:42:20.9720025Z"
+}

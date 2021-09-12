@@ -1,0 +1,12 @@
+﻿{
+  "Id": "_mEZiAVEr02-E7XPbnk8OQ",
+  "Reference": "4WAPbOeCq06ht0OdLbohTw/_mEZiAVEr02-E7XPbnk8OQ",
+  "ParentRef": "4WAPbOeCq06ht0OdLbohTw/7FPli2-TnUOckrSf4VWZ9A",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2021-09-11T23:42:21.0200029Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-11T23:42:21.0200029Z"
+}

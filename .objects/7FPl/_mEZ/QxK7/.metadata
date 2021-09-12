@@ -1,0 +1,12 @@
+﻿{
+  "Id": "QxK7vlIAJUGHM8NU-ZRS4w",
+  "Reference": "4WAPbOeCq06ht0OdLbohTw/QxK7vlIAJUGHM8NU-ZRS4w",
+  "ParentRef": "4WAPbOeCq06ht0OdLbohTw/_mEZiAVEr02-E7XPbnk8OQ",
+  "Name": "Chrome: Google",
+  "Type": "Screen",
+  "Created": "2021-09-11T23:42:21.0440012Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-11T23:42:21.0440012Z"
+}
